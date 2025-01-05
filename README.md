@@ -16,6 +16,10 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
     
      Atualmente, estou colaborando em projetos open-source como parte do desafio da DIO, focando no uso avançado de **Git**, **GitHub** e **Markdown** para documentação de projetos e controle de versão.
 
+- [**desafio-github-markdown**](https://github.com/ThiagoLopes-Cloud/desafio-github-markdown)
+
+    Este desafio simples e prático foi criado para ajudar novos usuários do GitHub a se familiarizarem com a plataforma. A proposta é criar um arquivo README e adicioná-lo ao perfil do GitHub. Com este projeto, é possível explorar e praticar ferramentas de colaboração como pull requests, issues e o uso da linguagem de marcação Markdown.
+
 ---
 ### Linguagens de Marcação:
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
