@@ -1,7 +1,7 @@
 
 # Eae Galera, sou Thiago Lopes 👋
 
-🎓 **Engenharia da Computação (2024-2029)- Univesp** | 💻**Gerente de Loja - Grupo Rihappy**| 🤖 **Futuro Programador de IA** |
+🎓 **Engenharia da Computação (2024-2029)- Univesp**|🎓 **Tecnologia da informação com enfase em IoT (2024-2027)- Univesp**|💻**Gerente de Loja - Grupo Rihappy**| 🤖 **Futuro Programador de IA** |-
 
 
 ---
