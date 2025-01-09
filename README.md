@@ -31,6 +31,6 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
  ----
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/thiagolopesin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolopesin/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ThiagoLopes-Cloud)
 
