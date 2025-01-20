@@ -20,6 +20,10 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
 
     Este desafio simples e prático foi criado para ajudar novos usuários do GitHub a se familiarizarem com a plataforma. A proposta é criar um arquivo README e adicioná-lo ao perfil do GitHub. Com este projeto, é possível explorar e praticar ferramentas de colaboração como pull requests, issues e o uso da linguagem de marcação Markdown.
 
+_ [**resolvendo-codigos-py-copilot**](https://github.com/ThiagoLopes-Cloud/resolvendo-codigos-py-copilot) 🤖📈📝
+
+     Neste desafio, trabalhei na resolução de códigos utilizando o GitHub Copilot. Aprendi a integrar a ferramenta de IA para acelerar o desenvolvimento e melhorar a produtividade ao gerar e refatorar códigos de forma eficiente. A experiência aprimorou minhas habilidades em programação e colaboração com tecnologias de IA.
+
 ---
 ### Linguagens de Marcação:
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
