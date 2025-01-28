@@ -37,6 +37,12 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+### Git status:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLopes-Cloud&layout=compact&theme=radical)
+
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLopes-Cloud&show_icons=true&theme=radical)
+
+
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolopesin/)
