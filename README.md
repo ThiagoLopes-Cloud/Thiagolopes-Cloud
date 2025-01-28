@@ -42,7 +42,7 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
 
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLopes-Cloud&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoLopes-Cloud&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoLopes-Cloud&theme=dracula)
 
 
 ### 📬 Vamos nos conectar?
