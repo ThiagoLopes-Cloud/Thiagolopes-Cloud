@@ -33,6 +33,10 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
 
 
  ----
+### Linguagens de  Programação:
+![Python]()
+
+---
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagolopesin/)
