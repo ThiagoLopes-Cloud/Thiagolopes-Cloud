@@ -40,7 +40,7 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
 ### Git status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLopes-Cloud&layout=compact&theme=tokyonight)
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLopes-Cloud&show_icons=true&theme=radical)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoLopes-Cloud&show_icons=true&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoLopes-Cloud&theme=tokyo-night)
 
