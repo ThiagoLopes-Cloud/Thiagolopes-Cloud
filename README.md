@@ -34,6 +34,12 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+# 🐧 Gerenciamento de Usuários no Linux
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
 ---
 ### Git status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLopes-Cloud&layout=compact&theme=tokyonight)
