@@ -25,15 +25,13 @@ Eu sou apaixonado por tecnologia e inovação. Com formação em Administração
      Neste desafio, trabalhei na resolução de códigos utilizando o GitHub Copilot. Aprendi a integrar a ferramenta de IA para acelerar o desenvolvimento e melhorar a produtividade ao gerar e refatorar códigos de forma eficiente. A experiência aprimorou minhas habilidades em programação e colaboração com tecnologias de IA.
 
 ---
-### Linguagens de Marcação:
+### Tecnologias :
+
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-
-
- ----
-### Linguagens de  Programação:
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
